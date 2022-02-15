@@ -13,7 +13,7 @@ export default function SinglePost({ postData }) {
             backgroundImage: `url(${Image.data.attributes.url})`,
             backgroundSize: "cover",
             backgroundRepeat: "no-repeat",
-            backgroundPosition: "center"
+            backgroundPosition: "center",
           }}
         >
           <div>
